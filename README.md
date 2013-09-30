@@ -13,5 +13,12 @@ ofxCV
 Boids, based on code by Craig Reynolds, Daniel Shiffman, from: http://s373.net/code/boids
 
 
+Final project, Master in Design, Oslo Academy of the Arts.
 
-A big thank you to Joel Gethin Lewis and Pete Hellicar for tutoring in this project.  
+www.stereoscopica.no
+
+
+
+Thanks to Pete and Joel (Hellicar&Lewis) for their guidance in this project.  
+
+
